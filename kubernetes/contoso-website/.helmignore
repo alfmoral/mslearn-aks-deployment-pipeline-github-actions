@@ -4,6 +4,9 @@
 .DS_Store
 # Common VCS dirs
 .git/
+.git/kubernetes/contoso-website/templates/tests/
+.kubernetes/contoso-website/templates/tests/
+kubernetes/contoso-website/templates/tests/
 .gitignore
 .bzr/
 .bzrignore
