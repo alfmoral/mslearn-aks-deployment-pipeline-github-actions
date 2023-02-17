@@ -5,3 +5,6 @@ image:
 
 dns:
   name: 239e514852f0488c9650.eastus.aksapp.io
+  
+service:
+  port: 80
